@@ -12,10 +12,10 @@ class Twitter(object):
 		'''These keys, secrets, and tokens help Twitter keep track of your usage on their API.
 		It is a way to monitor and prevent wrong usage.'''
 
-		self.consumer_key = '538LEWAOqt8hAMgTdfqoY2J1b'
-		self.consumer_secret = 'xbSsONrS2mBhRn5ucU5XkKs6Mr4AK9FNKTsi07bDr4JJuEqHO5'
-		self.access_token = '787933-ZQ0ljPUD2hja9ENwHqmH63nmqwHYXfMWWujkBAonNiu'
-		self.access_token_secret = 'SfSeONIcOJ7DBuyOsoU5fN3NQTPqCYktC1bdwHWoLztR5'
+		self.consumer_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+		self.consumer_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+		self.access_token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+		self.access_token_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 		self.filename = filename
 		self.number_tweets = number_tweets
