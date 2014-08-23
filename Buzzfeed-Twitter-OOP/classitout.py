@@ -102,6 +102,4 @@ if __name__ == "__main__":
 	#x.get_and_save_tweets()
 	x.clean_csv()
 	x.graph()
-	
-print x.graph.__doc__
 
